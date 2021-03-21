@@ -6,7 +6,7 @@ cask "phoenix-slides" do
       verified: "github.com/gobbledegook/creevey/"
   name "Phoenix Slides"
   homepage "https://blyt.net/phxslides/"
-  desc "A fast full-screen slideshow program/image browser for flipping through folders or disks full of images"
-
+  desc "A full-screen slideshow program/image browser"
+  
   app "Phoenix Slides.app"
 end
